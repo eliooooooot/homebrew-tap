@@ -1,8 +1,8 @@
 class Picky < Formula
   desc "Interactive file selector with token counting for LLM context management"
   homepage "https://github.com/eliooooooot/picky"
-  url "https://github.com/eliooooooot/picky/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "6fbf0e55b9c62f070dc9cefffffa64e4fea1adf5cb2caf87fd77f30be1377950"
+  url "https://github.com/eliooooooot/picky/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "27be05027311439cd373db8c08173eeba0d185d56bc114ffaf8223a9079364dd"
   license "MIT"
   head "https://github.com/eliooooooot/picky.git", branch: "main"
 
